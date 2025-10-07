@@ -156,9 +156,9 @@
         },
         {
             "id": 5,
-            "name": "CCR Blade",
+            "name": "CCR Rogue",
             "role": "Member",
-            "description": "He's just better.",
+            "description": "Formerly 'CCR Blade'",
             "ranks": [
                 {
                     "game": "Fortnite",
@@ -216,6 +216,34 @@
         },
         {
             "id": 8,
+            "name": "CCR Aetherix",
+            "role": "Member",
+            "description": "No Description Set",
+            "ranks": [
+                {
+                    "game": "Fortnite",
+                    "rank": "Unknown",
+                    "peak": "Unknown",
+                    "BR Rank": "Unknown",
+                    "ZB Rank": "Unknown",
+                    "BR Reload Rank": "Unknown",
+                    "ZB Reload Rank": "Unknown",
+                    "Ballistic": "Unknown",
+                    "Peak Rank": "Unknown",
+                    "Clan Rank": "#10",
+                    "clankRank": "#10"
+                }
+            ],
+            "socials": [
+                 {
+                    "name": "No Socials Linked",
+                    "link": "#"
+                }
+            ],
+            "profileImage": "https://picsum.photos/200/300?grayscale"
+        },
+        {
+            "id": 9,
             "name": "Placeholder",
             "role": "Member",
             "description": "No Description Set",
