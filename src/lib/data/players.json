@@ -4,7 +4,7 @@
             "id": 1,
             "name": "CCR Astra",
             "role": "Leader",
-            "description": "Two Faces, One Name.",
+            "description": "Who better to run the show?",
             "ranks": [
                 {
                     "game": "Fortnite",
@@ -244,7 +244,7 @@
         },
         {
             "id": 9,
-            "name": "CCR Aetherix",
+            "name": "CCR Gh0strx",
             "role": "Member",
             "description": "No Description Set",
             "ranks": [
