@@ -16,20 +16,20 @@
                     "ZB Reload Rank": "Unranked",
                     "Ballistic": "Unranked",
                     "Peak Rank": "Unreal",
-                    "Clan Rank": "#1",
-                    "clankRank": "#1"
+                    "Clan Rank": "#2",
+                    "clankRank": "#2"
                 },
                 {
                     "game": "Overwatch 2",
-                    "rank": "Unranked",
-                    "Tank": "Unranked",
-                    "Damage": "Unranked",
-                    "Support": "Unranked",
-                    "Open Queue": "Unranked",
-                    "peak": "Platinum 5",
-                    "Peak Rank": "Platinum 5",
-                    "Clan Rank": "#2",
-                    "clankRank": "#2",
+                    "rank": "Diamond 3",
+                    "Tank": "Diamond 2",
+                    "Damage": "Diamond 3",
+                    "Support": "Platinum 1",
+                    "Open Queue": "Diamond 5",
+                    "peak": "Diamond 2",
+                    "Peak Rank": "Diamond 2",
+                    "Clan Rank": "#1",
+                    "clankRank": "#1",
                     "Device": "Console"
                 }
             ],
@@ -41,10 +41,6 @@
                 {
                     "name": "Github",
                     "link": "https://github.com/CCRAstra"
-                },
-                {
-                    "name": "Discord",
-                    "link": "https://discord.com/users/1013379393629982762"
                 },
                 {
                     "name": "Tiktok",
@@ -183,7 +179,7 @@
             "profileImage": "https://i.imgur.com/4aMoLy7.png"
         },
         {
-            "id": 7,
+            "id": 6,
             "name": "CCR Bandoe",
             "role": "Member",
             "description": "Competitive Call of Duty Player",
@@ -198,8 +194,8 @@
                     "ZB Reload Rank": "Unknown",
                     "Ballistic": "Unknown",
                     "Peak Rank": "Unknown",
-                    "Clan Rank": "#7",
-                    "clankRank": "#7"
+                    "Clan Rank": "#8",
+                    "clankRank": "#8"
                 }
             ],
             "socials": [
@@ -215,7 +211,7 @@
             "profileImage": "https://cdn.discordapp.com/avatars/1162273567724015649/5d97013ec450dc1ab1daf0b68171a91f.webp?size=1024"
         },
         {
-            "id": 8,
+            "id": 7,
             "name": "CCR Pretzel",
             "role": "Member",
             "description": "No Description Set",
@@ -230,8 +226,8 @@
                     "ZB Reload Rank": "Unknown",
                     "Ballistic": "Unknown",
                     "Peak Rank": "Unknown",
-                    "Clan Rank": "#10",
-                    "clankRank": "#10"
+                    "Clan Rank": "#9",
+                    "clankRank": "#9"
                 }
             ],
             "socials": [
@@ -243,7 +239,7 @@
             "profileImage": "https://cdn.discordapp.com/avatars/1242191204528029796/f054655b1f095788653c3ec4b8930226.webp?size=1024"
         },
         {
-            "id": 9,
+            "id": 8,
             "name": "CCR Gh0strx",
             "role": "Member",
             "description": "No Description Set",
@@ -271,7 +267,7 @@
             "profileImage": "https://cdn.discordapp.com/avatars/906325201527111700/9629eab0694015b199f6aeddcbf36d58.webp?size=1024"
         },
         {
-            "id": 10,
+            "id": 9,
             "name": "CCR Blaze",
             "role": "Member",
             "description": "No Description Set",
@@ -286,8 +282,8 @@
                     "ZB Reload Rank": "Unknown",
                     "Ballistic": "Unknown",
                     "Peak Rank": "Unknown",
-                    "Clan Rank": "#9",
-                    "clankRank": "#9"
+                    "Clan Rank": "#7",
+                    "clankRank": "#7"
                 }
             ],
             "socials": [
