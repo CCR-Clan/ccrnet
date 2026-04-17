@@ -28,8 +28,8 @@
                     "Open Queue": "Unranked",
                     "peak": "Platinum 5",
                     "Peak Rank": "Platinum 5",
-                    "Clan Rank": "#1",
-                    "clankRank": "#1",
+                    "Clan Rank": "#2",
+                    "clankRank": "#2",
                     "Device": "Console"
                 }
             ],
@@ -73,8 +73,8 @@
                     "ZB Reload Rank": "Unranked",
                     "Ballistic": "Gold 1",
                     "Peak Rank": "Unreal",
-                    "Clan Rank": "#3",
-                    "clankRank": "#3"
+                    "Clan Rank": "#1",
+                    "clankRank": "#1"
                 },
                 {
                     "game": "Overwatch 2",
@@ -142,8 +142,8 @@
                     "ZB Reload Rank": "Silver 3",
                     "Ballistic": "Unranked",
                     "Peak Rank": "Champion",
-                    "Clan Rank": "#2",
-                    "clankRank": "#2"
+                    "Clan Rank": "#3",
+                    "clankRank": "#3"
                 }
             ],
             "socials": [
@@ -170,8 +170,8 @@
                     "ZB Reload Rank": "Unranked",
                     "Ballistic": "Unranked",
                     "Peak Rank": "Platinum 1",
-                    "Clan Rank": "#4",
-                    "clankRank": "#4"
+                    "Clan Rank": "#6",
+                    "clankRank": "#6"
                 }
             ],
             "socials": [
@@ -198,8 +198,8 @@
                     "ZB Reload Rank": "Unknown",
                     "Ballistic": "Unknown",
                     "Peak Rank": "Unknown",
-                    "Clan Rank": "#6",
-                    "clankRank": "#6"
+                    "Clan Rank": "#7",
+                    "clankRank": "#7"
                 }
             ],
             "socials": [
@@ -258,29 +258,45 @@
                     "ZB Reload Rank": "Unknown",
                     "Ballistic": "Unknown",
                     "Peak Rank": "Unknown",
-                    "Clan Rank": "#10",
-                    "clankRank": "#10"
+                    "Clan Rank": "#4",
+                    "clankRank": "#4"
                 }
             ],
             "socials": [
-                {
-                    "name": "Discord",
-                    "link": "#"
-                },
-                {
-                    "name": "Twitter",
-                    "link": "#"
-                },
-                {
-                    "name": "Tiktok",
-                    "link": "#"
-                },
-                {
-                    "name": "Spotify",
+                 {
+                    "name": "No Socials Linked",
                     "link": "#"
                 }
             ],
             "profileImage": "https://cdn.discordapp.com/avatars/906325201527111700/9629eab0694015b199f6aeddcbf36d58.webp?size=1024"
+        },
+        {
+            "id": 10,
+            "name": "CCR Blaze",
+            "role": "Member",
+            "description": "No Description Set",
+            "ranks": [
+                {
+                    "game": "Fortnite",
+                    "rank": "Unknown",
+                    "peak": "Unknown",
+                    "BR Rank": "Unknown",
+                    "ZB Rank": "Unknown",
+                    "BR Reload Rank": "Unknown",
+                    "ZB Reload Rank": "Unknown",
+                    "Ballistic": "Unknown",
+                    "Peak Rank": "Unknown",
+                    "Clan Rank": "#9",
+                    "clankRank": "#9"
+                }
+            ],
+            "socials": [
+                 {
+                    "name": "No Socials Linked",
+                    "link": "#"
+                }
+            ],
+            "profileImage": "https://cdn.discordapp.com/avatars/542327457425129472/1e8804716ad169fe9f531c03229ce291.webp?size=1024"
         }
     ]
 }
